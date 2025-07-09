@@ -1,0 +1,14 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "A Review of Cars with Advanced Infotainment Systems",
+            "author": "Dasteen",
+            "date": "Jan 10, 2024",
+            "readTime": "3 min read",
+            "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
+            "image": "https://images.unsplash.com/photo-1549921296-3c6b694b69a9",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+        }
+    ]
+}
