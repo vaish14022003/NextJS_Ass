@@ -10,8 +10,11 @@
 // export default nextConfig;
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // images: {
+  //   domains: ['randomuser.me', 'images.unsplash.com'],
+  // },
   images: {
-    domains: ['randomuser.me', 'images.unsplash.com'],
+    domains: ['i.pravatar.cc', 'images.unsplash.com', 'cdn.jsdelivr.net', 'randomuser.me'],
   },
 }
 

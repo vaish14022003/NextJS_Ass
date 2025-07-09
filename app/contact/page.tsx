@@ -11,7 +11,7 @@ export default function ContactPage() {
             <section className="bg-[#F4F0F8] py-16 px-6 text-center">
                 <h1 className="text-4xl md:text-5xl font-bold mb-4">Get in Touch</h1>
                 <p className="text-lg max-w-2xl mx-auto">
-                    We'd love to hear from you! Whether you have a question about cars, feedback on our blog, or just want to say hello — we're here.
+                    We would love to hear from you.Whether you have a question about cars, feedback on our blog, or just want to say hello  we are here.
                 </p>
             </section>
 
