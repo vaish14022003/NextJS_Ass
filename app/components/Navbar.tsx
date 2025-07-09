@@ -109,7 +109,7 @@ export default function Navbar() {
     const [isOpen, setIsOpen] = useState(false)
     const [searchTerm, setSearchTerm] = useState('')
     const router = useRouter()
-    const pathname = usePathname()
+    //const pathname = usePathname()
 
     const handleSearch = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault()
