@@ -20,7 +20,7 @@ export default function AboutPage() {
                 <h2 className="text-xl sm:text-2xl font-bold mb-4">Our Mission</h2>
                 <p className="text-sm sm:text-base leading-relaxed mb-8">
                     Our mission is to empower car enthusiasts, buyers, and casual readers with accurate, engaging, and easy-to-understand content.
-                    Whether it's a breakdown of the latest features, expert maintenance tips, or hands-on modification tutorials — we’ve got you covered.
+                    Whether it's a breakdown of the latest features, expert maintenance tips, or hands-on modification tutorials — we have  got you covered.
                 </p>
             </section>
 
